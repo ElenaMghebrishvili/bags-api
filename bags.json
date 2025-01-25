@@ -1,0 +1,79 @@
+[
+    {
+      "id": "1",
+      "name": "Leather Backpack",
+      "price": 79.99,
+      "description": "A durable and stylish leather backpack.",
+      "category": "Backpacks",
+      "stock": 10,
+      "image": "https://baginning.com/media/catalog/product/cache/17f7930b9630993becbd36a7c8a76b30/a/p/apricot_leather_large_tote_bag_top_handle_office_purse_with_inner_pocket_9_.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Canvas Tote Bag",
+      "price": 49.99,
+      "description": "A lightweight and eco-friendly tote bag.",
+      "category": "Totes",
+      "stock": 20,
+      "image": "https://www.mytheresa.com/media/2310/2612/100/fb/P01003716.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Travel Duffel",
+      "price": 119.99,
+      "description": "A spacious duffel for all your travel needs.",
+      "category": "Duffels",
+      "stock": 5,
+      "image": "https://www.mytheresa.com/media/1094/1238/100/30/P00918163.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Travel Duffel",
+        "price": 119.99,
+        "description": "A spacious duffel for all your travel needs.",
+        "category": "Duffels",
+        "stock": 5,
+        "image": "https://www.mytheresa.com/media/1094/1238/100/57/P00743861.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Travel Duffel",
+        "price": 119.99,
+        "description": "A spacious duffel for all your travel needs.",
+        "category": "Duffels",
+        "stock": 5,
+        "image": "https://cdn-images.farfetch-contents.com/19/66/25/35/19662535_44131274_1000.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Travel Duffel",
+        "price": 119.99,
+        "description": "A spacious duffel for all your travel needs.",
+        "category": "Duffels",
+        "stock": 5,
+        "image": "https://cdn-images.farfetch-contents.com/19/78/98/38/19789838_50498628_1000.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Travel Duffel",
+        "price": 119.99,
+        "description": "A spacious duffel for all your travel needs.",
+        "category": "Duffels",
+        "stock": 5,
+        "image": "https://www.mytheresa.com/media/1094/1238/100/69/P00991659.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Travel Duffel",
+        "price": 119.99,
+        "description": "A spacious duffel for all your travel needs.",
+        "category": "Duffels",
+        "stock": 5,
+        "image": "https://cdn-images.farfetch-contents.com/19/78/98/38/19789838_50498628_1000.jpg"
+      }
+  ]
+
+
+
+
+  
