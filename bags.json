@@ -88,5 +88,15 @@
     "category": "tote bag",
     "stock": 5,
     "image": "https://cdn-images.farfetch-contents.com/24/15/10/75/24151075_54351482_1000.jpg"
-  }
+  },
+  {
+  "id": "11",
+  "name": "Shoulder Bag",
+  "price": 324.99,
+  "description": "This luxurious shoulder bag is crafted from premium leather, with a soft canvas lining for a sophisticated finish. Made in Italy, it features a rich green color that complements the silver hardware. The bag is designed for practicality, with an adjustable shoulder strap and a secure zipped top closure. Inside, you'll find a convenient card slot for easy organization. It also comes with a protective dust bag, ensuring its longevity. Item number: P01004900.",
+  "category": "Shoulder Bag",
+  "stock": 6,
+  "image": "https://www.mytheresa.com/media/1094/1238/100/5f/P01004900.jpg"
+}
+
 ]
